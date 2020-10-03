@@ -178,7 +178,7 @@ X_drug, X_target, X_drug_names, X_target_names = dataset.read_file_virtual_scree
 ## trained model
 
 
-The CNN model built for this study can be found inside the model folder
+The python script used to build the CNN model for this study can be found inside the model folder
 
 <details>
  
@@ -187,4 +187,7 @@ The CNN model built for this study can be found inside the model folder
 ## Disclaimer
 The model is built on a framework developed by Kexin Huang: kexinhuang@hsph.harvard.edu 
 
+
+## MM-PBSA analysis for residue energy contributions
+The R script implemented to elucidate the energy contribution of the critical residues of the protein-ligand complex during binding can be found in the R-script folder
 
