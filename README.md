@@ -177,11 +177,10 @@ X_drug, X_target, X_drug_names, X_target_names = dataset.read_file_virtual_scree
 
 ## trained model
 
-
-The python script used to build the CNN model for this study can be found inside the model folder
-
 <details>
- 
+	
+The python script used to build and train the CNN model for this study can be found inside the model folder
+
 
 
 ## Disclaimer
